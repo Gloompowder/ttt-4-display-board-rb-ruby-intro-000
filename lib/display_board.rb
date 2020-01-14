@@ -22,3 +22,4 @@ def display_board
        expect(rows[4]).to eq(" O | O | O ")
        expect(true).to be(true)
      end
+   end
